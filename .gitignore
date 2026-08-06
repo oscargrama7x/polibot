@@ -13,3 +13,4 @@ test_set_tipo.py
 get_solicitudes_columns_now.py
 create_pipeline_webhook.py
 get_status_labels.py
+scripts
