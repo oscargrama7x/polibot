@@ -92,6 +92,22 @@ JEFAS = {
     "karina": {"id": "78712932", "name": "Karina Gutierrez Peña"},
     "gybram": {"id": "79095202", "name": "Gybram Vásquez"},
     "oscar": {"id": "112077190", "name": "Oscar Daniel Retes Torres"},
+    "violeta": {"id": "79096528", "name": "Violeta Sias"},
+    "rodrigo": {"id": "79096568", "name": "Rodrigo Irigoyen"},
+    "veronica": {"id": "79096680", "name": "Verónica Infante Martinez"},
+    "yuliana": {"id": "79096757", "name": "Yuliana Garza Lopez"},
+    "carolina": {"id": "79152777", "name": "Carolina Gonzalez"},
+    "fabiola": {"id": "79215163", "name": "Fabiola Vallejo Uresti"},
+    "keren": {"id": "80755784", "name": "Keren De los Reyes"},
+    "carola": {"id": "88223460", "name": "Carola Castillo García"},
+    "aleida": {"id": "88245819", "name": "Aleida Soto"},
+    "liliana": {"id": "95600841", "name": "Liliana Berenice Martinez Morales"},
+    "carlos": {"id": "98022280", "name": "Krlos Chavarria"},
+    "jose": {"id": "102602024", "name": "José Eduardo Salazar Cepeda"},
+    "valeria": {"id": "104660029", "name": "Valeria Balleza"},
+    "rosana": {"id": "105185612", "name": "Rosana De La Rosa"},
+    "nicole": {"id": "110292208", "name": "Nicole Velazquez García"},
+    "silvana": {"id": "111598773", "name": "Silvana Riveroll"},
 }
 
 # Maps each Tipo de proyecto label -> list of subtask names from its template.
